@@ -1,4 +1,3 @@
-# PacMan-search
 # Pac-Man Pathfinding Algorithms
 
 ## Overview
