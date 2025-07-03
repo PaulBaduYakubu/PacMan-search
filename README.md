@@ -10,3 +10,6 @@ In this exercise, I will teach Pac-Man to search his world to complete the follo
 - Find the fastest way to eat all the food in the map.
 
 Using **BFS**, **DFS**, and **A\*** to teach Pac-Man to navigate his world in the most efficient way possible.
+
+![Pac-Man Pathfinding Demo](demo.mp4)
+
