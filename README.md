@@ -1,4 +1,5 @@
 # Pac-Man Pathfinding Algorithms
+![Pac-Man Pathfinding Demo](pacman_logo.png)
 
 ## Overview
 
