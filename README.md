@@ -11,5 +11,5 @@ In this exercise, I will teach Pac-Man to search his world to complete the follo
 
 Using **BFS**, **DFS**, and **A\*** to teach Pac-Man to navigate his world in the most efficient way possible.
 
-![Pac-Man Pathfinding Demo](demo.mp4)
+![Pac-Man Pathfinding Demo](score.png)
 
